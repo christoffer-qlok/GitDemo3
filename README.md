@@ -5,4 +5,4 @@ It has:
 * All the things
 * You want
 * In a repo
-* And more!
+
